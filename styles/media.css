@@ -1,0 +1,39 @@
+@media screen and (max-width: 600px) {
+  nav {
+    margin-top: 10px;
+  }
+
+  .nav-ul {
+    display: none;
+  }
+
+  .input-button {
+    margin-left: 40px;
+    margin-top: 60px;
+  }
+
+  main {
+    margin-top: 16%;
+  }
+
+  main img {
+    display: none;
+  }
+
+  footer {
+    flex-direction: column;
+    gap: 20%;
+    margin-top: 60px;
+    margin-bottom: 25px;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 805px) {
+  .img-1 {
+    display: none;
+  }
+
+  .img-2 {
+    display: none;
+  }
+}
