@@ -4,7 +4,9 @@ Mais um projeto para treinar meu HTML e CSS
 #  tamanho de telas
 ![aument3](https://user-images.githubusercontent.com/101673432/174418376-9c1723c2-f410-446f-ae05-5d5de18242c7.png) 
 
-
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/101673432/174418432-a0ca2234-77e1-454c-bd17-df225c4bfdc2.png" width="400" height="400" alt="css-in-readme">
+</div>
 
 
 ![aument2](https://user-images.githubusercontent.com/101673432/174418432-a0ca2234-77e1-454c-bd17-df225c4bfdc2.png)
