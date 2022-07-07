@@ -1,5 +1,5 @@
 # :arrow_right: Pagina-de-capitura
-Mais um projeto para treinar meu HTML e CSS
+<p align="center">Mais um projeto para treinar meu HTML e CSS</p>
 
 # :link: links 
 
